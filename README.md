@@ -63,8 +63,4 @@
       - Auto-detects file changes  
       - Encrypted transfer  
       - Cross-platform support  
-    - **Next steps link**:  
-      ```bash
-      npm install myapp
-      ```
 
